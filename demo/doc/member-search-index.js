@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"com.ejemplo.controller","c":"PricesController","l":"PricesController()","url":"%3Cinit%3E()"}]
